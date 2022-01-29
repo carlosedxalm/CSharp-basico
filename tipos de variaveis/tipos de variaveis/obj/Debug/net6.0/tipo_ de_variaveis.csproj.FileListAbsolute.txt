@@ -1,0 +1,14 @@
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\bin\Debug\net6.0\tipo_ de_variaveis.exe
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\bin\Debug\net6.0\tipo_ de_variaveis.deps.json
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\bin\Debug\net6.0\tipo_ de_variaveis.runtimeconfig.json
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\bin\Debug\net6.0\tipo_ de_variaveis.dll
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\bin\Debug\net6.0\ref\tipo_ de_variaveis.dll
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\bin\Debug\net6.0\tipo_ de_variaveis.pdb
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.AssemblyInfo.cs
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.dll
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\ref\tipo_ de_variaveis.dll
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.pdb
+D:\Projetos\CSharp\tipos de variaveis\tipos de variaveis\obj\Debug\net6.0\tipo_ de_variaveis.genruntimeconfig.cache

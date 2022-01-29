@@ -1,0 +1,15 @@
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\bin\Debug\net6.0\primeiro_programa_CSharp.exe
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\bin\Debug\net6.0\primeiro_programa_CSharp.deps.json
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\bin\Debug\net6.0\primeiro_programa_CSharp.runtimeconfig.json
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\bin\Debug\net6.0\primeiro_programa_CSharp.dll
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\bin\Debug\net6.0\ref\primeiro_programa_CSharp.dll
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\bin\Debug\net6.0\primeiro_programa_CSharp.pdb
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.csproj.AssemblyReference.cache
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.AssemblyInfo.cs
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.dll
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\ref\primeiro_programa_CSharp.dll
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.pdb
+D:\Projetos\CSharp\primeiro_programa_CSharp\primeiro_programa_CSharp\obj\Debug\net6.0\primeiro_programa_CSharp.genruntimeconfig.cache

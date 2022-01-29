@@ -1,0 +1,14 @@
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\bin\Debug\net6.0\saida_de_dados_csharp.exe
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\bin\Debug\net6.0\saida_de_dados_csharp.deps.json
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\bin\Debug\net6.0\saida_de_dados_csharp.runtimeconfig.json
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\bin\Debug\net6.0\saida_de_dados_csharp.dll
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\bin\Debug\net6.0\ref\saida_de_dados_csharp.dll
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\bin\Debug\net6.0\saida_de_dados_csharp.pdb
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.AssemblyInfo.cs
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.dll
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\ref\saida_de_dados_csharp.dll
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.pdb
+D:\Projetos\CSharp\saida_de_dados_csharp\saida_de_dados_csharp\obj\Debug\net6.0\saida_de_dados_csharp.genruntimeconfig.cache
